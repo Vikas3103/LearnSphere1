@@ -26,7 +26,7 @@ import ViewLecture from './pages/ViewLecture'
 import SearchWithAi from './pages/SearchWithAi'
 import getAllReviews from './customHooks/getAllReviews'
 
-export const serverUrl = "https://learnsphere-backend-hq95.onrender.com"
+export const serverUrl = "https://learnsphere-backend-hq95.onrender.com/"
 
 function App() {
   
